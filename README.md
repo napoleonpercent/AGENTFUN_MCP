@@ -2,7 +2,7 @@
 
 **AI-Powered Autonomous Token Management on Solana**
 
-> Built by [BuildersDAO](https://buildersdao.org) - Empowering the next generation of blockchain automation
+> Built by [BuildersDAO](https://x.com/buildersdao__) - Empowering the next generation of blockchain automation
 
 <div align="center">
 
