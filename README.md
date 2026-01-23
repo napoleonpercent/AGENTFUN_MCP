@@ -289,8 +289,6 @@ Content-Type: application/json
 ### Our Mission
 Empower developers to build the next generation of autonomous blockchain applications through open standards and production-ready tools.
 
-**Join us:** [buildersdao.org](https://buildersdao.org)
-
 ---
 
 ## 📚 Documentation
@@ -363,10 +361,3 @@ We're just getting started! Coming soon:
 
 ---
 
-<div align="center">
-
-**Built with ❤️ by BuildersDAO**
-
-[Website](https://buildersdao.org) • [Twitter](https://twitter.com/BuildersDAO) • [Discord](https://discord.gg/buildersdao) • [GitHub](https://github.com/buildersdao)
-
-</div>
